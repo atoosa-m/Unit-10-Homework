@@ -1,5 +1,5 @@
 # Unit-10-Homework
-## A Yen for the Futur
+## A Yen for the Future
 ### Return Forecasting: Time Series Analysis & Modelling with CAD-JPY Exchange rate data
 After importing the required libraries and reading the csv file, I trimmed the dataset so that it would begin from the date specified in the instructions: January 1, 1990.  
 Initial plot showing the Settle price: <br />
